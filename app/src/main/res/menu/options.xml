@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_Setting"
+        android:title="Setting" />
+
+    <item
+        android:id="@+id/nav_About"
+        android:title="About Us" />
+    <item
+        android:id="@+id/nav_Subs"
+        android:title="Resubscription" />
+
+    <item
+        android:id="@+id/nav_Logout"
+        android:title="Logout" />
+</menu>

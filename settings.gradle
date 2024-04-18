@@ -1,0 +1,5 @@
+include ':mywatch'
+include ':mywatch'
+include ':watchapplication'
+include ':app'
+rootProject.name = "ClientManagements"
